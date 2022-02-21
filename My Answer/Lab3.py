@@ -1,3 +1,6 @@
+"""
+Author : Issam Abdoh
+"""
 
 class state():
     def __init__(self, array, parent,goal_board):
